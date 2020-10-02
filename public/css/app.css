@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #eaeaea;
+  color: darkcyan;
+  padding: 50px;
+  font-family: "Exo 2", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+main {
+  margin: 20px 0;
+}
+
+main ul {
+  list-style: none;
+}
+
+main ul li {
+  margin: 10px;
+}
+
+header,
+footer {
+  color: orange;
+  font-weight: bold;
+}
+
